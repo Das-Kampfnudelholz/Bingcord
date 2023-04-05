@@ -3,9 +3,8 @@
 
 A Discord bot to have Bing Chat in any Channel you want. 
 
-
-
-
+## Example 
+https://discord.gg/9USyhV8D
 ## Requierments
 All the dependencies for Python
 ```python
