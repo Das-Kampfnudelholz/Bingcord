@@ -5,6 +5,7 @@ A Discord bot to have Bing Chat in any Channel you want.
 
 ## Example 
 https://discord.gg/9USyhV8D
+![](https://cdn.discordapp.com/attachments/1093178162285912144/1093178727074115604/ezgif.com-gif-maker.gif)
 ## Requierments
 All the dependencies for Python
 ```python
